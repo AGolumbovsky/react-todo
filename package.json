@@ -1,13 +1,13 @@
 {
-  "name": "boilerplate",
+  "name": "todoApp",
   "version": "1.0.0",
-  "description": "Simple react app",
-  "main": "index.js",
+  "description": "todo react app",
+  "main": "server.js",
   "scripts": {
     "test": "karma start",
     "start": "node server.js"
   },
-  "author": "Andrew Mead",
+  "author": "Andriy Golumbovsky",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.9.1",
